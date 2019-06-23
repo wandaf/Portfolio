@@ -7,9 +7,9 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Personal Work"
+  title: "USC Student Media"
   type: "Jekyll"
-  url: "https://wandaf.github.io/Portfolio/personalwork/"
+  url: "https://wandaf.github.io/Portfolio/uscstudentmedia/"
   logo: "/assets/images/projects/greenpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
