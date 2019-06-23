@@ -9,7 +9,7 @@ meta:
 project:
   title: "Personal Work"
   type: "Jekyll"
-  url: "https://wandaf.github.io/Portfolio/greenpineapple/"
+  url: "https://wandaf.github.io/Portfolio/personalwork/"
   logo: "/assets/images/projects/greenpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
