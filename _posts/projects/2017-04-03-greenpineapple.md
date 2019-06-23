@@ -7,9 +7,9 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Green Pineapple"
+  title: "Personal Work"
   type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://wandaf.github.io/Portfolio/greenpineapple/"
   logo: "/assets/images/projects/greenpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
