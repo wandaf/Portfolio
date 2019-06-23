@@ -9,6 +9,23 @@
 	<meta name="keywords" content="{{ site.keywords }}">
 	{% include head.html %}
 </head>
+	<script language="JavaScript">
+	var space = " ";
+	var pos = 0;
+	var msg = "Wanda Felsenhardt";
+
+	function Scroll()
+	{
+	document.title = msg.substring(pos, msg.length) + space +msg.substring(0,pos);
+
+	pos++;
+	if (pos > msg.length) pos = 0;
+	window.setTimeout("Scroll()", 100);
+	}
+	Scroll();
+</script>
+
+
 <body>
 	{% include header.html %}
 	<main class="content">
