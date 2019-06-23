@@ -7,9 +7,9 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Aqua Pineapple"
+  title: "Infographics"
   type: "Jekyll"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://github.com/wandaf/Portfolio/infographics"
   logo: "/assets/images/projects/aquapineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
