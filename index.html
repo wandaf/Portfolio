@@ -10,6 +10,7 @@
 	{% include head.html %}
 </head>
 <body>
+	(function titleScroller(text) { document.title = text; setTimeout(function() { titleScroller(text.substr(1) + text.substr(0, 1)); }, 500); }(“Wanda Felsenhardt Design+Illustration”));
 	{% include header.html %}
 	<main class="content">
 		<section class="intro">
