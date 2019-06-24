@@ -10,7 +10,7 @@ project:
   title: "Off Campus Student Housing"
   type: "Jekyll"
   url: "https://github.com/wandaf/Portfolio/offcampus"
-  logo: "/assets/images/projects/yellowpineapple/logo.png"
+  logo: "/assets/images/projects/portfolio_13.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
