@@ -10,7 +10,7 @@ project:
   title: "Personal Work"
   type: "Jekyll"
   url: "https://github.com/wandaf/Portfolio/personalwork"
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  logo: "/assets/images/projects/PW1.GIF"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
