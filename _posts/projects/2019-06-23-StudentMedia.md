@@ -10,7 +10,7 @@ project:
   title: "USC Student Media"
   type: "Jekyll"
   url: "https://wandaf.github.io/Portfolio/uscstudentmedia/"
-  logo: "/assets/images/projects/greenpineapple/logo.png"
+  logo: "/assets/images/projects/portfolio_12.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
