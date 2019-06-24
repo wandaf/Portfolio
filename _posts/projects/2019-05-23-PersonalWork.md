@@ -23,7 +23,7 @@ images:
     url: "/assets/images/projects/book2.jpg"
     alt: "Illustration"
   - image:
-    url: "/assets/images/projects/Illustration3.png"
+    url: "/assets/images/projects/illustration3.png"
     alt: "Red Pineapple website on a mobile device"
 ---
 <p>I was inspired by Jerry Pinkney's childrens' book Sam and the Tigers to create my own two illustrations for the story. I used Photoshop to create all three of these images.</p>
