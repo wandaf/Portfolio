@@ -26,7 +26,7 @@ images:
     url: "/assets/images/projects/AC2.png"
     alt: "Arab Center"
   - image:
-    url: "/assets/images/projects/aquapineapple/mobile.jpg"
-    alt: "Aqua Pineapple website on a mobile device"
+    url: "/assets/images/projects/Artboard 3.png"
+    alt: "Arab Opinion Poll"
 ---
-<p>In many tropical countries, pineapple is prepared and sold on roadsides as a snack. It is sold whole or in halves with a stick inserted. Chunks of pineapple are used in desserts such as fruit salad, as well as in some savory dishes, including pizza toppings, or as a grilled ring on a hamburger.</p>
+<p>During my internship last summer, I created the print and web deliverables for the Arab Center DC's annual conference. The banner went through several iterations. I was also able to create social media posts for the recently published Arab Opinion Index.</p>
