@@ -24,4 +24,4 @@ images:
     url: "/assets/images/projects/Info3.png"
     alt: "Infographic"
 ---
-<p>I have created infographics for both my internship and creative services job. Currently learning how to use Tableau and programming to create interactive infographics. Stay tuned!.</p>
+<p>I have created infographics for both my internship and creative services job. Currently learning how to use Tableau and programming to create interactive infographics. Stay tuned!</p>
