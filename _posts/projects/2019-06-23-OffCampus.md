@@ -23,7 +23,7 @@ images:
     url: "/assets/images/projects/OffCampus1.jpg"
     alt: "Off Campus"
   - image:
-    url: "/assets/images/projects/offcampus2.png"
+    url: "/assets/images/projects/Offcampus2.png"
     alt: "maps"
 ---
 <p>I created several print deliverables including booklets, brochures, and large-scale banners for the Office of Off-Campus Housing at USC.</p>
