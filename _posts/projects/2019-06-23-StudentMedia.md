@@ -20,10 +20,10 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/greenpineapple/devices.jpg"
+    url: "/assets/images/projects/Stepup1.jpg"
     alt: "Green Pineapple website on tablet, mobile and desktop"
   - image:
-    url: "/assets/images/projects/greenpineapple/desktop.jpg"
+    url: "/assets/images/projects/Stepup2.jpg"
     alt: "Green Pineapple website on a desktop device"
   - image:
     url: "/assets/images/projects/greenpineapple/mobile.jpg"
