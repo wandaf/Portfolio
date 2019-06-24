@@ -23,7 +23,7 @@ images:
     url: "/assets/images/projects/AC1.jpg"
     alt: "Arab Center"
   - image:
-    url: "/assets/images/projects/AC2.jpg"
+    url: "/assets/images/projects/AC2.png"
     alt: "Arab Center"
   - image:
     url: "/assets/images/projects/aquapineapple/mobile.jpg"
