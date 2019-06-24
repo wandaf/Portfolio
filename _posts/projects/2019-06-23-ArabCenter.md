@@ -10,7 +10,7 @@ project:
   title: "Arab Center Washington DC"
   type: "Jekyll"
   url: "https://github.com/wandaf/Portfolio/arabcenter"
-  logo: "/assets/images/projects/aquapineapple/logo.png"
+  logo: "/assets/images/projects/ArabCenter.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
