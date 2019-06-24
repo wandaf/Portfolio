@@ -20,11 +20,11 @@ agency:
 
 images:
   - image:
-    url: "/assets/images/projects/aquapineapple/devices.jpg"
-    alt: "Aqua Pineapple website on tablet, mobile and desktop"
+    url: "/assets/images/projects/AC1.jpg"
+    alt: "Arab Center"
   - image:
-    url: "/assets/images/projects/aquapineapple/desktop.jpg"
-    alt: "Aqua Pineapple website on a desktop device"
+    url: "/assets/images/projects/AC2.jpg"
+    alt: "Arab Center"
   - image:
     url: "/assets/images/projects/aquapineapple/mobile.jpg"
     alt: "Aqua Pineapple website on a mobile device"
