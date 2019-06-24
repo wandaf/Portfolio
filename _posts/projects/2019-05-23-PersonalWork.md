@@ -25,8 +25,8 @@ images:
   - image:
     url: "/assets/images/projects/book2.jpg"
     alt: "Illustration"
-  <!--- image:
+  - image:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
-    alt: "Red Pineapple website on a mobile device"-->
+    alt: "Red Pineapple website on a mobile device"
 ---
 <p>Pineapples are delicious tropical fruit. There are more than a hundred varieties of pineapples that grow in varying sizes. The plant is indigenous to South America and is said to originate from the area between southern Brazil and Paraguay.</p>
