@@ -23,7 +23,7 @@ images:
     url: "/assets/images/projects/book1.jpg"
     alt: "Illustration"
   - image:
-    url: "/assets/images/projects/book2"
+    url: "/assets/images/projects/book2.jpg"
     alt: "Illustration"
   <!--- image:
     url: "/assets/images/projects/redpineapple/mobile.jpg"
