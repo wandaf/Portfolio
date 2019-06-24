@@ -11,22 +11,19 @@ project:
   type: "Jekyll"
   url: "https://github.com/wandaf/Portfolio/offcampus"
   logo: "/assets/images/projects/portfolio_13.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
-agency:
-  title: "Yellow Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
-  year: "2017, 2018"
+
+  year: "2018"
 
 images:
   - image:
     url: "/assets/images/projects/Concept.png"
-    alt: "Yellow Pineapple website on tablet, mobile and desktop"
+    alt: "Concept"
   - image:
     url: "/assets/images/projects/OffCampus1.jpg"
-    alt: "Yellow Pineapple website on a desktop device"
+    alt: "Off Campus"
   - image:
-    url: "/assets/images/projects/yellowpineapple/mobile.jpg"
-    alt: "Yellow Pineapple website on a mobile device"
+    url: "/assets/images/projects/offcampus2.png"
+    alt: "maps"
 ---
-<p>The pineapple is a herbaceous perennial, which grows to 1.0 to 1.5 m (3.3 to 4.9 ft) tall, although sometimes it can be taller. The plant takes almost three years to reach maturation. It can fruit a total of three times during its lifetime.</p>
+<p>I created several print deliverables including booklets, brochures, and large-scale banners for the Office of Off-Campus Housing at USC.</p>
