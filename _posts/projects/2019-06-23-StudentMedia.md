@@ -11,22 +11,18 @@ project:
   type: "Jekyll"
   url: "https://wandaf.github.io/Portfolio/uscstudentmedia/"
   logo: "/assets/images/projects/portfolio_12.png"
-  tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
-agency:
-  title: "Green Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
   year: "2017"
 
 images:
   - image:
     url: "/assets/images/projects/Stepup1.jpg"
-    alt: "Green Pineapple website on tablet, mobile and desktop"
+    alt: "Campaign"
   - image:
     url: "/assets/images/projects/Stepup2.jpg"
-    alt: "Green Pineapple website on a desktop device"
+    alt: "Campaign"
   - image:
-    url: "/assets/images/projects/greenpineapple/mobile.jpg"
-    alt: "Green Pineapple website on a mobile device"
+    url: "/assets/images/projects/be08dc44636253.5818f221b7723.jpg"
+    alt: "Campaign"
 ---
-<p>The pineapple is made up of mostly water (86%) and carbohydrates (13%), with almost no fat or protein. It has nutrients, vitamins, and minerals, including copper, potassium, calcium, magnesium, manganese, vitamin C, thiamin, B6, beta-carotene, and folate as well as soluble and insoluble fiber and bromelain.</p>
+<p>I created several campaigns for Student Media at USC. These included campaigns to recruit students for leadership positions as well as showcases and orientations for freshmen.</p>
