@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "USC Student Media"
-  type: "Jekyll"
+  type: "Ad Campaign"
   url: "https://wandaf.github.io/Portfolio/uscstudentmedia/"
   logo: "/assets/images/projects/portfolio_12.png"
 
