@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "Infographics"
-  type: "Jekyll"
+  type: "Infographic Design"
   url: "https://github.com/wandaf/Portfolio/infographics"
   logo: "/assets/images/projects/Infographic.png"
 
