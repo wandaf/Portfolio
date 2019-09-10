@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "Off Campus Student Housing"
-  type: "Jekyll"
+  type: "Layout Design"
   url: "https://github.com/wandaf/Portfolio/offcampus"
   logo: "/assets/images/projects/portfolio_13.png"
 
