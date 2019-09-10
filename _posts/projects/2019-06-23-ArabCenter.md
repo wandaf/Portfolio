@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "Arab Center Washington DC"
-  type: "Jekyll"
+  type: "Ad Campaign"
   url: "https://github.com/wandaf/Portfolio/arabcenter"
   logo: "/assets/images/projects/ArabCenter.png"
 
