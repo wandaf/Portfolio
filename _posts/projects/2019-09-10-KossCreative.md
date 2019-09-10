@@ -7,9 +7,9 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Arab Center Washington DC"
-  type: "Jekyll"
-  url: "https://github.com/wandaf/Portfolio/arabcenter"
+  title: "Koss Creative"
+  type: "T-shirt Design"
+  url: "https://github.com/wandaf/Portfolio/KossCreative"
   logo: "/assets/images/projects/ArabCenter.png"
 
 images:
@@ -23,4 +23,4 @@ images:
     url: "/assets/images/projects/Artboard 3.png"
     alt: "Arab Opinion Poll"
 ---
-<p>During my internship last summer, I created the print and web deliverables for the Arab Center DC's annual conference. The banner went through several iterations. I was also able to create social media posts for the recently published Arab Opinion Index.</p>
+<p>Here are some of the designs I created for screenprinted t-shirts while working for Koss Creative.</p>
