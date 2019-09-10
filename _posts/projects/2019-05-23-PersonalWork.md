@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "Personal Work"
-  type: "Jekyll"
+  type: "Illustration"
   url: "https://github.com/wandaf/Portfolio/personalwork"
   logo: "/assets/images/projects/PW1.GIF"
  
