@@ -20,7 +20,7 @@ images:
     url: "/assets/images/projects/Artboard 1.jpg"
     alt: "Shirt"
   - image:
-    url: "/assets/images/projects/Artboard 2.jpg"
+    url: "/assets/images/projects/Artboard 3.jpg"
     alt: "Shirt"
 ---
 <p>Here are some of the designs I created for screenprinted t-shirts while working for Koss Creative.</p>
