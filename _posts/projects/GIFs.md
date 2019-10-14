@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Personal Work"
+  title: "GIFs"
   type: "Illustration"
   url: "https://github.com/wandaf/Portfolio/GIFs"
   logo: "/assets/images/projects/GIF1.gif"
