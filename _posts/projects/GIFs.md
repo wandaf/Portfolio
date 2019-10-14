@@ -9,18 +9,18 @@ meta:
 project:
   title: "Personal Work"
   type: "Illustration"
-  url: "https://github.com/wandaf/Portfolio/personalwork"
-  logo: "/assets/images/projects/PW1.GIF"
+  url: "https://github.com/wandaf/Portfolio/GIFs"
+  logo: "/assets/images/projects/GIF1.gif"
  
 
   year: "2018"
 
 images:
   - image:
-    url: "/assets/images/projects/book1.jpg"
+    url: "/assets/images/projects/Thanks.gif"
     alt: "Illustration"
   - image:
-    url: "/assets/images/projects/book2.jpg"
+    url: "/assets/images/projects/GIF1.gif"
     alt: "Illustration"
   - image:
     url: "/assets/images/projects/illustration3.png"
