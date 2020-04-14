@@ -9,7 +9,7 @@ resume: "https://drive.google.com/file/d/1iTe2f5IRcGlL3isXz3J7l18nZvFbaGAf/view?
 instagram: "https://www.instagram.com/amandineflint/"
 
 # Site config
-baseurl: "http://wandaf.github.io/"
+baseurl: "wandaf.github.io"
 highlighter: rouge
 sass:
   sass_dir: assets/scss
